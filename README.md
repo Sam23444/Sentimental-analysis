@@ -24,7 +24,7 @@ Evaluation using accuracy and confusion matrix
 
 Restaurant_Reviews.tsv: The dataset file in tab-separated format.
 
-sentiment_analysis.py: The main script containing all implementation steps.
+natural_language_processing.py: The main script containing all implementation steps.
 
 
 
